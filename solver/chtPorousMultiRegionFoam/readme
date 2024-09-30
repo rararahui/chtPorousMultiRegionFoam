@@ -1,0 +1,4 @@
+1.considering with changing of pressure in darcy equation, use p_temp.
+2.use buoyantPimpleFoam.
+3.considering with changing of air's temperature in porous.
+4.considering with changing of rho in porous.

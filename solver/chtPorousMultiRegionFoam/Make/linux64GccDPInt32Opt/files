@@ -1,0 +1,5 @@
+SOURCE += fluid/compressibleCourantNo.C
+SOURCE += solid/solidRegionDiffNo.C
+SOURCE += chtMultiRegionFoam.C
+
+EXE = $(FOAM_USER_APPBIN)/chtPorousMultiRegionFoam
