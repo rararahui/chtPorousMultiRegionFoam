@@ -1,0 +1,5 @@
+temperatureCoupledBase.C
+turbulentFluidKappaOneCoupledBaffleMixedFvPatchScalarField.C
+turbulentSolidKappaOneCoupledBaffleMixedFvPatchScalarField.C
+
+LIB = $(FOAM_USER_LIBBIN)/libturbulentTemperatureKappaOneCoupledBaffleMixed

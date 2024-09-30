@@ -1,0 +1,18 @@
+fixedEnergyFvPatchScalarField.C
+energyJumpAMIFvPatchScalarField.C
+mixedEnergyCalculatedTemperatureFvPatchScalarField.C
+gradientEnergyCalculatedTemperatureFvPatchScalarField.C
+solidThermo.C
+gradientEnergyFvPatchScalarField.C
+energyJumpFvPatchScalarField.C
+mixedEnergyFvPatchScalarField.C
+thermophysicalTransportModel.C
+dynamicTransportModel.C
+kinematicTransportModel.C
+basicThermo.C
+fluidThermo.C
+temperatureCoupledBase.C
+turbulentFluidKappaOneCoupledBaffleMixedFvPatchScalarField.C
+turbulentSolidKappaOneCoupledBaffleMixedFvPatchScalarField.C
+
+LIB = $(FOAM_USER_LIBBIN)/libturbulentTemperatureKappaOneCoupledBaffleMixed
