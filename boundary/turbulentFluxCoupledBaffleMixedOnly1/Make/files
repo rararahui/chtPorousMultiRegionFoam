@@ -1,0 +1,3 @@
+turbulentFluxCoupledBaffleMixedFvPatchVectorFieldOnly1.C
+
+LIB = $(FOAM_USER_LIBBIN)/libturbulentFluxCoupledBaffleMixedOnly1
